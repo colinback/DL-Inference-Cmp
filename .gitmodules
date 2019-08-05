@@ -1,0 +1,6 @@
+[submodule "onnxruntime/client-cc/third_party/onnxruntime"]
+	path = onnxruntime/client-cc/third_party/onnxruntime
+	url = https://github.com/microsoft/onnxruntime.git
+[submodule "onnxruntime/client-cc/third_party/benchmark"]
+	path = onnxruntime/client-cc/third_party/benchmark
+	url = https://github.com/tjingrant/google-benchmark.git
